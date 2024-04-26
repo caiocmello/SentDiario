@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1QqDdYjuUru7QyQm7_Kvx67WCd0yQDO91
 """
 
-!pip install dash --upgrade
-!pip install jupyter_dash --upgrade
-!pip install dash_bootstrap_components --upgrade
-
 import datetime
 import requests
 import pandas as pd
