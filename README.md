@@ -42,10 +42,17 @@ Nós selecionamos quatro tópicos para demonstrar o interesse da nossa ferrament
 ## Sobre a análise de sentimento: 
 
 - **Como funciona?**
-  
+
 - **Os resultados são confiáveis?**
   
 - **Quais as principais limitações dessa metodologia?** a tendência a resultados negativos!
+
+Notícias tem uma tendência negativa. "Jornalistas não cobrem pouso de aviões" (pag.1 livro News avoidance). Results show an increase of sentiment negativity in headlines across written news media since the year 2000 until 2019. Analysis of sentiment and emotion in 23 million headlines from 47 news media outlets popular in the USA. Rozado, D. Hughes, R. Halberstadt, J (2022) Longitudinal analysis of sentiment and emotion in news media headlines using automated labelling with Transformer language models. PLoS ONE17(10): e0276367. https://doi.org/10.1371/ journal.pone.0276367
+Toff, B., Palmer, R., & Nielsen, R. K. (2023). Avoiding the news: Reluctant audiences for journalism. Columbia University Press.
+
+> Para aprender mais sobre análise de sentimento: 
+> - Zoë Wilkinson Saldaña, "Análise de sentimento para exploração de dados", traduzido por Caio Mello, Programming Historian em português 1 (2021), https://doi.org/10.46430/phpt0017.
+> - Jennifer Isasi, "Análise de sentimentos em R com 'syuzhet'", traduzido por Diana Rebelo Rodriguez, Programming Historian em português 2 (2022), https://doi.org/10.46430/phpt0022.
 
 ## Autores
 
