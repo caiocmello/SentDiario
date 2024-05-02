@@ -1,4 +1,4 @@
-# Sobre o projecto
+# Sobre o projeto
 
 Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do novo Acordo Ortográfico? E quanto à comunidades minorizadas como a LGBT? SentDiário é uma ferramenta que permite uma análise diacrônica detalhada das tendências midiáticas relativas a diferentes tópicos de interesse social. Nós apresentamos um modelo que permite classificar automaticamente o sentimento dos títulos de notícias, através de assuntos selecionados. Para esta versão *demo*, incluímos notícias arquivadas pelo **Arquivo.pt**, publicadas nos sites dos 10 principais portais de notícias de Portugal, de acordo com o [Instituto Reuters para o Estudo do Jornalismo](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/portugal): 
 
@@ -42,13 +42,26 @@ Nós selecionamos quatro tópicos para demonstrar o interesse da nossa ferrament
 ## Sobre a análise de sentimento: 
 
 - **Como funciona?**
+A *análise de sentimento* é uma forma de se utilizar de algorítimos de Processamento de Linguagem Natural (PLN) para quantificar a itensidade emocional de palavras, frases e textos. Ferramentas de classificação de sentimento se tornaram populares por seu uso comercial, no qual empresas de utilizam desses algorítimos para analisar a recepção de seus produtos através de comentários de consumidores na internet. Algorítimos treinados em diversas bases de dados podem funcionar de formas diversas. Em sua forma mais básica, o algorítimo pode conter um dicionário criado por pessoas, no qual um sentimento é atribuído a uma série de palavras. Desta forma, para determinar o sentimento de uma frase, basta calcular quantas palavras positivas, negativas ou neutras estão presentes nela. Formas mais sofisticadas surgiram ao longo do tempo, permitindo que os algorítimos não apenas usassem um dicionário, mas também compreendenssem a sintaxe da língua. Com o uso de aprendizado de máquinas, tem sido possível gerar algorítimos cada vez mais eficientes, que consigam lidar com desafios linguísticos e frases mais complexas.
+  
+- **Quais as principais limitações dessa metodologia?**
+
+  - Notícias tem uma tendência negativa
+    
+    Como lembram Toff, Palmer e Nielsen no livro *[Evitando notícias: audiências relutantes em relação ao jornalismo](https://cup.columbia.edu/book/avoiding-the-news/9780231205191)* (2023, p.1), "Jornalistas não cobrem pousos de aviões". Existe por tanto uma tendência do jornalismo a jogar luz sobre fatos disruptivos do cotidiano, que tendem a ter uma natureza negativa. Há também indicativos de que o número de notícias negativas têm potencialmente aumentado ao longo dos últimos anos. De acordo com uma [pesquisa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276367) realizada por Rozado, Hudges e Halberstadt (2022), ouve um aumento no número de notícias negativas publicadas entre os anos 2000 e 2019 nos Estados Unidos. Os autores utilizaram análise de sentimento num corpus composto de 23 milhões de títulos de notícias publicadas por 47 meios de comunicação populares no país. Esse viés, entretanto, deve variar de acordo com o tópico ou evento analisado, sendo notícias positivas mais facilmente encontradas nas seções de 'viagens' ou 'esportes' de um jornal, por exemplo.  
+
+  - Classificação negativa não significa necessariamente uma notícia ruim
+    
+    O método de classificação automatizada de sentimento considera o sentimento discursivamente expresso no texo a partir da escolha das palavras. Na notícia *[ONU critica resposta da administração Trump a manifestações racistas](https://arquivo.pt/noFrame/replay/20170831232240id_/http://observador.pt/2017/08/23/onu-critica-resposta-da-administracao-trump-a-manifestacoes-racistas/)*, por exemplo, por mais que a notícia seja boa (por se tratar de uma crítica a manifestações racistas), o fato de a notícia conter as palavras 'critica' e 'racistas' faz com que a polaridade seja calculada pelo algorítimo como 'negativa'. A classificação 'negativa', por tanto, se trata do uso de palavras negativas, e não, necessariamente, do fato de uma notícia ser boa ou ruim.  
+  
+  - Algumas frases são complexas demais
+    
+    Neste título *[Vasco Pulido Valente. Marcelo elogia "impiedosa independência crítica"](https://arquivo.pt/noFrame/replay/20200327212418id_/https://www.dn.pt/poder/amp/vasco-pulido-valente-marcelo-elogia-impiedosa-independencia-critica-11848581.html)* há um elogio feito com uso de palavras negativas ('impiedosa', 'crítica'). Enquanto um cronista, ser considerado como dono de uma 'impiedosa independência crítica' é positivo. Daí o motivo de algorítimos de análise de sentimento serem 'sensíveis ao contexto'. Frases que se utilizam de ironias e sarcasmo também dificultam a classificação de sentimento. Algumas vezes, sendo difícil não apenas para as máquinas (algorítimos) mas também para humanos interpretá-las. 
 
 - **Os resultados são confiáveis?**
-  
-- **Quais as principais limitações dessa metodologia?** a tendência a resultados negativos!
 
-Notícias tem uma tendência negativa. "Jornalistas não cobrem pouso de aviões" (pag.1 livro News avoidance). Results show an increase of sentiment negativity in headlines across written news media since the year 2000 until 2019. Analysis of sentiment and emotion in 23 million headlines from 47 news media outlets popular in the USA. Rozado, D. Hughes, R. Halberstadt, J (2022) Longitudinal analysis of sentiment and emotion in news media headlines using automated labelling with Transformer language models. PLoS ONE17(10): e0276367. https://doi.org/10.1371/ journal.pone.0276367
-Toff, B., Palmer, R., & Nielsen, R. K. (2023). Avoiding the news: Reluctant audiences for journalism. Columbia University Press.
+Como argumenta Rogers em [Doing Digital Methods](https://books.google.com/books/about/Doing_Digital_Methods.html?id=DLuODwAAQBAJ)(2019), reconhecer as limitações dos dados e suas formas de uso é inerente ao uso de métodos digitais. Embora o uso de classificações automatizadas de sentimento apresente desafios, esse método pode facilitar uma análise exploratória dos dados. Combinar esse método com outros, sejam eles quantitativos ou qualitativos (como a leitura manual dos dados),  é desejável para que seus resultados possam ser interpretados da melhor maneira e, em alguns casos, generalizados. 
+
 
 > Para aprender mais sobre análise de sentimento: 
 > - Zoë Wilkinson Saldaña, "Análise de sentimento para exploração de dados", traduzido por Caio Mello, Programming Historian em português 1 (2021), https://doi.org/10.46430/phpt0017.
@@ -62,4 +75,4 @@ Toff, B., Palmer, R., & Nielsen, R. K. (2023). Avoiding the news: Reluctant audi
 
 - [Dr. Gaurish Thakkar](https://thak123.github.io/): Researcher, University of Zagreb | E-mail: thak123@gmail.com
 ---
-Obrigado por visitar nossa página. Para mais informações, sinta-se à vontade para entrar em contato com os autores do projecto. 
+Obrigado por visitar nossa página. Para mais informações, sinta-se à vontade para entrar em contato com os autores do projeto. 
