@@ -12,21 +12,17 @@ Welcome to the About page for our scientific project. Here, you will find inform
 
 ## Team Members
 
-### Principal Investigator
-
 ![Caio Mello](https://caiocmello.github.io//images/profile.png)
 - **Name:** [Caio Mello]
 - **Position:** [PhD Candidate]
 - **Affiliation:** [School of Advanced Study, University of London]
-
-### Researchers
 
 ![Dr. Diego Alves](link_to_image)
 - **Name:** [Diego Alves]
 - **Position:** Postdoctoral Researcher 
 - **Affiliation:** Saarland University
 
-![Dr. Gaurish Thakkar](link_to_image)
+![Dr. Gaurish Thakkar](https://avatars0.githubusercontent.com/u/3891859?s=460&u=66e4c1667153ae6d5d4cdbc97f0b9817a0c911cb&v=4)
 - **Name:** [Gaurish Thakkar]
 - **Position:** [Researcher]
 - **Affiliation:** [University of Zagreb]
