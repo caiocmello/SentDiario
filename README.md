@@ -14,22 +14,22 @@ Welcome to the About page for our scientific project. Here, you will find inform
 
 ### Principal Investigator
 
-![Principal Investigator](link_to_image)
-- **Name:** [Principal Investigator's Name]
-- **Position:** [Principal Investigator's Position]
-- **Affiliation:** [Principal Investigator's Affiliation]
+![Caio Mello](https://caiocmello.github.io//images/profile.png)
+- **Name:** [Caio Mello]
+- **Position:** [PhD Candidate]
+- **Affiliation:** [School of Advanced Study, University of London]
 
 ### Researchers
 
-![Researcher 1](link_to_image)
-- **Name:** [Researcher 1's Name]
-- **Position:** [Researcher 1's Position]
-- **Affiliation:** [Researcher 1's Affiliation]
+![Dr. Diego Alves](link_to_image)
+- **Name:** [Diego Alves]
+- **Position:** Postdoctoral Researcher 
+- **Affiliation:** Saarland University
 
-![Researcher 2](link_to_image)
-- **Name:** [Researcher 2's Name]
-- **Position:** [Researcher 2's Position]
-- **Affiliation:** [Researcher 2's Affiliation]
+![Dr. Gaurish Thakkar](link_to_image)
+- **Name:** [Gaurish Thakkar]
+- **Position:** [Researcher]
+- **Affiliation:** [University of Zagreb]
 
 [Repeat this section for each team member, if applicable.]
 
