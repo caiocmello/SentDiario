@@ -60,7 +60,7 @@ A *análise de sentimento* é uma forma de se utilizar de algorítimos de Proces
 
 - **Os resultados são confiáveis?**
 
-Como argumenta Rogers em [Doing Digital Methods](https://books.google.com/books/about/Doing_Digital_Methods.html?id=DLuODwAAQBAJ)(2019), reconhecer as limitações dos dados e suas formas de uso é inerente ao uso de métodos digitais. Embora o uso de classificações automatizadas de sentimento apresente desafios, esse método pode facilitar uma análise exploratória dos dados. Combinar esse método com outros, sejam eles quantitativos ou qualitativos (como a leitura manual dos dados),  é desejável para que seus resultados possam ser interpretados da melhor maneira e, em alguns casos, generalizados. 
+Como argumenta Rogers em [Doing Digital Methods](https://books.google.com/books/about/Doing_Digital_Methods.html?id=DLuODwAAQBAJ) (2019), reconhecer as limitações dos dados e suas formas de uso é inerente ao uso de métodos digitais. Embora o uso de classificações automatizadas de sentimento apresente desafios, esse método pode facilitar uma análise exploratória dos dados. Combinar esse método com outros, sejam eles quantitativos ou qualitativos (como a leitura manual dos dados),  é desejável para que seus resultados possam ser interpretados da melhor maneira e, em alguns casos, generalizados. 
 
 
 > Para aprender mais sobre análise de sentimento: 
