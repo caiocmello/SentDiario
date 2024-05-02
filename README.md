@@ -2,17 +2,7 @@
 
 Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do novo Acordo Ortográfico? E quanto à comunidades minorizadas como a LGBT? SentDiário é uma ferramenta que permite uma análise diacrônica detalhada das tendências midiáticas relativas a diferentes tópicos de interesse social. Nós apresentamos um modelo que permite classificar automaticamente o sentimento dos títulos de notícias, através de assuntos selecionados. Para esta versão *demo*, incluímos notícias arquivadas pelo **Arquivo.pt**, publicadas nos sites dos 10 principais portais de notícias de Portugal, de acordo com o [Instituto Reuters para o Estudo do Jornalismo](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/portugal): 
 
-- SIC Notícias online
-- Notícias ao Minuto
-- Correio da Manhã online
-- Correio da Manhã TV online
-- Sapo
-- Jornal de Notícias online
-- CNN Portugal online
-- Observador
-- Expresso online
-- Público online
-- Diário de Notícias online
+![corpus_arquivopt.jpg](corpus_arquivopt.jpg)
 
 <iframe title="Weekly reach - online" aria-label="Split Bars" id="datawrapper-chart-5YFSg" src="https://datawrapper.dwcdn.net/5YFSg/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="665" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
@@ -21,9 +11,10 @@ Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do no
 
 ## Mas notícias não deveriam ser sempre neutras?  
 Quando falamos em neutralidade no jornalismo ([Ojala,2021](https://www.tandfonline.com/doi/full/10.1080/1461670X.2021.1942150)), nos referimos à busca por uma reportagem que não tome partido e apresente uma visão equilibrada dos fatos. Ao propor uma análise de sentimento, estamos levando em consideração que textos de notícia podem ser positivos, negativos ou neutros, na medida em que o discurso faz usos de palavras que carregam esses sentimentos. Veja abaixo exemplos de notícias de polaridade positiva, neutra e negativa:
-- Exemplo 1
-- Exemplo 2
-- Exemplo 3
+
+- Positivo: [Festival pretende promover inclusão social da comunidade LGBTS](https://arquivo.pt/noFrame/replay/20120809234829id_/http://www.dn.pt/cartaz/interior.aspx?content_id=2710584) 
+- Neutro: [Nasce uma igreja todos os meses em Portugal](https://arquivo.pt/noFrame/replay/20190811192132id_/https://www.dn.pt/pais/interior/nasce-uma-igreja-todos-os-meses-em-portugal--10887303.html)
+- Negativo: [Cidadãos lançam iniciativa contra acordo ortográfico no Facebook](https://arquivo.pt/noFrame/replay/20100608075542id_/http://www.publico.pt/Sociedade/cidadaos-lancam-iniciativa-contra-acordo-ortografico-no-facebook_1424865)
 
 ## E por que analisar somente os títulos das notícias? E quanto ao resto do texto?
 Títulos de notícias exercem uma série de funções ([Scacco & Muddiman, 2016](https://mediaengagement.org/research/clickbait-headlines/)), especialmente quando se trata do jornalismo online, que depende de clicks para mensurar sua audiência. Seja o título um resumo do conteúdo ou um clickbait, ele é o primeiro nível de acesso à informação (a primeira impressão) e, muitas vezes, também a única. 
@@ -48,29 +39,20 @@ Os resultados obtidos são, então, processados para serem apresentados de manei
 
 Nós selecionamos quatro tópicos para demonstrar o interesse da nossa ferramenta (imigração, novo acordo ortográfico, LGBT e direitos reprodutivos/aborto), porém, o potencial dela vai além, e pode ser adaptada para abranger uma diversidade de assuntos. 
 
-**Sobre a análise de sentimento:** 
+## Sobre a análise de sentimento: 
 
-- Como funciona?
+- **Como funciona?**
   
-- Os resultados são confiáveis?
+- **Os resultados são confiáveis?**
   
-- Quais as principais limitações dessa metodologia? a tendência a resultados negativos!
+- **Quais as principais limitações dessa metodologia?** a tendência a resultados negativos!
 
 ## Autores
 
-- **Name:** [Caio Mello]
-- **Position:** [PhD Candidate]
-- **Affiliation:** [School of Advanced Study, University of London]
-[Personal website](https://caiocmello.github.io/) | [E-mail](caiomellodh@gmail.com) 
+- [Caio Mello](https://caiocmello.github.io/): PhD Candidate, School of Advanced Study, University of London | E-mail: caiomellodh@gmail.com
 
-- **Name:** [Dr. Diego Alves]
-- **Position:** Postdoctoral Researcher 
-- **Affiliation:** Saarland University
-[Personal website](https://dfvalio.github.io/) | [E-mail](dfvalio@gmail.com) 
+- [Dr. Diego Alves](https://dfvalio.github.io/): Postdoctoral Researcher, Saarland University| E-mail: dfvalio@gmail.com
 
-- **Name:** [Dr. Gaurish Thakkar]
-- **Position:** [Researcher]
-- **Affiliation:** [University of Zagreb]
-[Personal website](https://thak123.github.io/) | [E-mail](thak123@gmail.com) 
+- [Dr. Gaurish Thakkar](https://thak123.github.io/): Researcher, University of Zagreb | E-mail: thak123@gmail.com
 ---
 Obrigado por visitar nossa página. Para mais informações, sinta-se à vontade para entrar em contato com os autores do projecto. 
