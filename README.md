@@ -56,7 +56,7 @@ A *análise de sentimento* é uma forma de se utilizar de algorítimos de Proces
   
   - Algumas frases são complexas demais
     
-    Neste título *[Vasco Pulido Valente. Marcelo elogia "impiedosa independência crítica"](https://arquivo.pt/noFrame/replay/20200327212418id_/https://www.dn.pt/poder/amp/vasco-pulido-valente-marcelo-elogia-impiedosa-independencia-critica-11848581.html)* há um elogio feito com uso de palavras negativas ('impiedosa', 'crítica'). Enquanto um cronista, ser considerado como dono de uma 'impiedosa independência crítica' é positivo. Daí o motivo de algorítimos de análise de sentimento serem 'sensíveis ao contexto'. Frases que se utilizam de ironias e sarcasmo também dificultam a classificação de sentimento. Algumas vezes, sendo difícil não apenas para as máquinas (algorítimos) mas também para humanos interpretá-las. 
+    Neste título *[Vasco Pulido Valente. Marcelo elogia "impiedosa independência crítica"](https://arquivo.pt/noFrame/replay/20200327212418id_/https://www.dn.pt/poder/amp/vasco-pulido-valente-marcelo-elogia-impiedosa-independencia-critica-11848581.html)* há um elogio feito com uso de palavras negativas ('impiedosa', 'crítica'). Para um cronista, ser considerado como dono de uma 'impiedosa independência crítica' é positivo. Daí o motivo de algorítimos de análise de sentimento serem 'sensíveis ao contexto'. Frases que se utilizam de ironias e sarcasmo também dificultam a classificação de sentimento. Algumas vezes, sendo difícil não apenas para as máquinas (algorítimos) mas também para humanos interpretá-las. 
 
 - **Os resultados são confiáveis?**
 
