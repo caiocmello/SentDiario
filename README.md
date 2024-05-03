@@ -4,6 +4,8 @@ Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do no
 
 ![corpus_arquivopt.jpg](corpus_arquivopt.jpg)
 
+![reuters_news_ranking.png](reuters_news_ranking.png)
+
 
 ## Por que analisar o sentimento de textos jornalísticos?
 [Vizeu](https://revistaseletronicas.pucrs.br/ojs/index.php/revistafamecos/article/view/6321) (2009, p.77) argumenta que o jornalismo é um ‘lugar de referência’. Isto é, um lugar que estabelece parâmetros da realidade, aonde as pessoas vão em busca de ‘estabilidade’. Desta forma, é através do consumo de notícias que temos acesso a fatos diversos do cotidiano, e a forma como os interpretamos é mediada pelos meios de comunicação. O fato de um jornal publicar mais notícias positivas ou negativas sobre determinado assunto tem, portanto, o potencial de não apenas reproduzir, mas também, construir uma visão positiva ou negativa acerca daquele determinado tópico. Assim, analisar o sentimento das notícias ajuda a compreender como assuntos de relevância social são reportados pelos diferentes meios e qual o ‘tom’ adotado pelos jornais.  
