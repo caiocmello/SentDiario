@@ -1,6 +1,8 @@
+![https://huggingface.co/spaces/sentdiario/Sentdiario](SentDiario_logo.png)
+
 # Sobre o projeto
 
-Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do novo Acordo Ortográfico? E quanto à comunidades minorizadas como a LGBT? SentDiário é uma ferramenta que permite uma análise diacrônica detalhada das tendências midiáticas relativas a diferentes tópicos de interesse social. Nós apresentamos um modelo que permite classificar automaticamente o sentimento dos títulos de notícias, através de assuntos selecionados. Para esta versão *demo*, incluímos notícias arquivadas pelo **Arquivo.pt**, publicadas nos sites dos 10 principais portais de notícias de Portugal, de acordo com o [Instituto Reuters para o Estudo do Jornalismo](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/portugal): 
+Quão positiva (ou negativa) foi a cobertura da imprensa portuguesa acerca do novo Acordo Ortográfico? E quanto à comunidades minorizadas como a LGBT? **[SentDiário](https://huggingface.co/spaces/sentdiario/Sentdiario)** é uma ferramenta que permite uma análise diacrônica detalhada das tendências midiáticas relativas a diferentes tópicos de interesse social. Nós apresentamos um modelo que permite classificar automaticamente o sentimento dos títulos de notícias, através de assuntos selecionados. Para esta versão *demo*, incluímos notícias arquivadas pelo **Arquivo.pt**, publicadas nos sites dos 10 principais portais de notícias de Portugal, de acordo com o [Instituto Reuters para o Estudo do Jornalismo](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2023/portugal): 
 
 ![corpus_arquivopt.jpg](corpus_arquivopt.jpg)
 
@@ -44,12 +46,12 @@ Avaliação global das tendências (Figura 3): esse gráfico considera todo o pe
 ![newplot(4).png](newplot(4).png)
 *Figura 4. Avaliação diacrônica detalhada por portal de notícias.*
 
-Avaliação diacrônica detalhada por portal de notícias (Figuras 4): Para uma análise mais detalhada, também fornecemos resultados mais específicos para cada portal, ou seja, apresentamos a variação diacrônica da frequência relativa de notícias por classe.
+Avaliação diacrônica detalhada por portal de notícias (Figura 4): Para uma análise mais detalhada, também fornecemos resultados mais específicos para cada portal, ou seja, apresentamos a variação diacrônica da frequência relativa de notícias por classe.
 
 ![newplot(5).png](newplot(5).png)
-*Tabelas com links para as notícias*
+*Figura 5. Tabela com links para as notícias*
 
-Tabelas com links para as notícias por portal e por classe: Também fornecemos uma tabela, para um período de tempo pré-selecionado, com links para as notícias e a respectiva classificação para uma análise mais precisa e detalhada.
+Tabelas com links para as notícias por portal e por classe (Figura 5): Também fornecemos uma tabela, para um período de tempo pré-selecionado, com links para as notícias e a respectiva classificação para uma análise mais precisa e detalhada.
 
 Neste [vídeo](https://vimeo.com/943094092?share=copy) apresentamos uma introdução ao uso da ferramenta. Experimente!            
 
