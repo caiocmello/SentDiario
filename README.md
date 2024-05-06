@@ -26,7 +26,32 @@ Devido ao uso de paywalls ou por conta de hábitos de consumo de notícias pelas
 
 ## Como usar a ferramenta?
 
-- [List the specific goals and objectives of the project.]             
+![newplot1.jpg](newplot1.jpg)
+*Figura 1. Avaliação global das tendências.*
+
+Avaliação diacrônica e comparativa das tendências (Figura 1): nesse gráfico dinâmico, pode-se comparar a evolução das tendências dos diferentes portais. Cada portal é representado por uma linha, os valores variam de -1 (maior concentração de notícias negativas) a +1 (maior concentração de notícias positivas). Por ser dinâmico, é possível selecionar, na legenda, mídias específicas a serem apresentadas para uma comparação mais precisa.
+
+![newplot2.jpg](newplot2.jpg)
+*Figura 2. Distribuição do número de notícias publicadas*
+
+Distribuição do número de notícias por mês e por portal de notícia (Figura 2): esse gráfico permite ver a evolução temporal da cobertura jornalística dos diferentes temas. É possível identificar, assim, períodos de maior interesse midiático sobre os diferentes tópicos e relacioná-los a diferentes fenômenos socioeconômicos acontecendo em paralelo.
+
+![newplot3.jpg](newplot3.jpg)
+*Figura 3. Avaliação global das tendências.*
+
+Avaliação global das tendências (Figura 3): esse gráfico considera todo o período analisado e apresenta a tendência global das notícias publicadas em todas as mídias combinadas. 
+
+![newplot4.jpg](newplot4.jpg)
+*Figura 4. Avaliação diacrônica detalhada por portal de notícias.*
+
+Avaliação diacrônica detalhada por portal de notícias (Figuras 4): Para uma análise mais detalhada, também fornecemos resultados mais específicos para cada portal, ou seja, apresentamos a variação diacrônica da frequência relativa de notícias por classe.
+
+![newplot5.jpg](newplot5.jpg)
+*Tabelas com links para as notícias*
+
+Tabelas com links para as notícias por portal e por classe: Também fornecemos uma tabela, para um período de tempo pré-selecionado, com links para as notícias e a respectiva classificação para uma análise mais precisa e detalhada.
+
+Neste [vídeo](https://vimeo.com/943094092?share=copy) apresentamos uma introdução ao uso da ferramenta. Experimente!            
 
 ## Metodologia 
 
